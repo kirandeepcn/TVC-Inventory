@@ -88,6 +88,7 @@ include 'conn.php'
                     <option value="prodlist">Product List</option>
                     <option value="loclist">Location List</option>
                     <option value="boneyardcountdown">Boneyard Count Down</option>
+                    <option value="totaldate">Total Date</option>
                 </select>
 			<table class="table" id="dispDate">
 				<thead>
